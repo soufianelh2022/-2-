@@ -38,7 +38,7 @@
 "yandex_appopen":"demo-appopenad-yandex",
   
 "banner_network_choice":"admob", 
-"interstisial_network_choice":"ironsource", 
+"interstisial_network_choice":"yandex", 
 "reward_network_choice":"admob",
 "native_network_choice":"admob"
 
